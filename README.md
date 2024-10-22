@@ -14,10 +14,8 @@ Welcome to the Tic-Tac-Toe project! This repository contains a simple implementa
 
 ## Features
 
-- Play against another human player or an AI
-- Clear and simple interface
+- Play against an AI
 - Track wins, losses, and draws
-- Responsive design for various screen sizes
 
 ## Installation
 
@@ -33,12 +31,12 @@ Then, navigate into the project directory:
 cd tic-tac-toe
 ```
 
-Open the `index.html` file in your web browser to start playing!
+Go to the terminal of the folder saved and run ----> 'python tictactoe1.py' to play the game.
 
 ## Usage
 
 1. Open the `index.html` file in your preferred web browser.
-2. Choose your player type: Human vs Human or Human vs AI.
+2. Choose your player type: Human vs AI.
 3. Click on the grid to place your mark (X or O).
 4. The game will notify you of a win, loss, or draw.
 
@@ -51,9 +49,7 @@ Open the `index.html` file in your web browser to start playing!
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
+- Python
 
 ## Contributing
 

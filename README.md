@@ -1,5 +1,4 @@
 # Tic-Tac-Toe
-# Tic-Tac-Toe
 
 Welcome to the Tic-Tac-Toe project! This repository contains a simple implementation of the classic Tic-Tac-Toe game. You can play against another player or challenge yourself against a basic AI.
 
